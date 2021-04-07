@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Furqan.</h1>
 
-<p>Welcome to my page! </br> I'm Furqan, Fullstack developer from  Lahore, Pakistan</b>, currently living in. </p>
+<p><b>Welcome to my page! </br> I'm Furqan, Fullstack developer from  Lahore, Pakistan</b>, currently living in. </b></p>
 
 <p>
  With over 11 years of experience in the digital industry and have worked in a wide range of applications & technologies.
