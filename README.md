@@ -55,11 +55,11 @@
 <h3> CI/CD </h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="TravisCI" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Capistrano CI" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="BitBucket Pipeline" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="TravisCI" />
+  <img alt="Capistrano CI"/>
+  <img alt="BitBucket Pipeline"/>
+  <img alt="Ubuntu" />
 </p>
 
 <h3>Open source projects</h3>
