@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Furqan, Fullstack developer from  Lahore, Pakistan</b>, currently living in. </p>
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
