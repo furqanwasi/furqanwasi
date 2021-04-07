@@ -56,10 +56,7 @@
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="TravisCI" />
-  <img alt="Capistrano CI"/>
-  <img alt="BitBucket Pipeline"/>
-  <img alt="Ubuntu" />
+   TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
 
 <h3>Open source projects</h3>
