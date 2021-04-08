@@ -13,7 +13,7 @@
 <a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<img src='https://www.flaticon.com/svg/vstatic/svg/13/13131.svg?token=exp=1617868921~hmac=3b08113f6770ccccac3500f3d064c4b4'/>
 
 <h3>Languages </h3>
 <p>
