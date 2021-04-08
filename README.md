@@ -1,3 +1,4 @@
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="30"/> Hey! I am Furqan.</h1>
 
 <p><b>Welcome to my page! </br> I'm Furqan, Fullstack developer from  Lahore, Pakistan</b>, currently living in. </b></p>
@@ -13,9 +14,7 @@
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<style>
- table, tr, td {border: none;}
-</style>
+
 <h3>Languages </h3>
 <p>
 
@@ -74,22 +73,22 @@
 <table style='border: none !important'>
 
 <tr>
-   <td> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
-    <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
-  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/></td>
+   <td style='border: none;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
+    <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
+  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/></td>
 <tr/>
 
 <tr>
- <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/></td>
-  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/></td>
-  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/></td>
+ <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/></td>
+  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/></td>
+  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/></td>
 <tr/>
 
 <tr>
 
- <td> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
- <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
-<td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
+ <td style='border: none;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
+ <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
+<td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
 
 <tr/>
 
