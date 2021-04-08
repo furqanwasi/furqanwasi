@@ -72,23 +72,23 @@
 <h3> Thing I like to do </h3>
 <table style='border: none !important'>
 
-<tr>
+<tr style='border: none;'>
    <td style='border: none;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
     <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
   <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/></td>
 <tr/>
 
-<tr>
- <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/></td>
-  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/></td>
-  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/></td>
+<tr style='border: none;'>
+ <td style='border: none !important'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/></td>
+  <td style='border: none  !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/></td>
+  <td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/></td>
 <tr/>
 
-<tr>
+<tr style='border: none;'>
 
- <td style='border: none;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
- <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
-<td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
+ <td style='border: none !important;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
+ <td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
+<td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
 
 <tr/>
 
