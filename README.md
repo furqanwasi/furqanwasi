@@ -3,6 +3,10 @@
 
 <p><b>Welcome to my page! </br> I'm Furqan, Fullstack developer from  Lahore, Pakistan</b> </b></p>
 
+<a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 <p>
  With over 11 years of experience in the digital industry and have worked in a wide range of applications & technologies.
 
@@ -10,9 +14,7 @@
 
  My main responsibilities were direct software development, including software architecture, and my team's code quality control. In addition, I was engaged in the planning and organization of the development process. I'm an expert in OOP and design patterns.
 </p>
-<a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 
 <h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Languages </h3>
 <p>
