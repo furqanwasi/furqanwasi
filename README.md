@@ -73,7 +73,7 @@
 
 <tr>
    <td> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
-  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
+    <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
   <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/></td>
 <tr/>
 
@@ -87,7 +87,8 @@
 
  <td> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
-  <td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
+<td><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
+
 <tr/>
 
 </table>
