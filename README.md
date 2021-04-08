@@ -69,18 +69,11 @@
    TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
 
-Languages:
-✓ Ruby
-✓ PHP
-✓ JavaScript
-✓ Java
 
-Frameworks / Technologies:
+<h3>Frameworks / Technologies:</h3>
 ✓ Serverless Apps and Microservices
-✓ Ruby on Rails
 ✓ ReactJS
 ✓ Amazon Web Services
-✓ Laravel
 ✓ Symfony
 ✓ Codeignitor
 ✓ Spring MVC
@@ -89,49 +82,46 @@ Frameworks / Technologies:
 ✓ Bash scripting
 ✓ NodeJs
 
-Project Models
+<h3>Project Models<h/3>
 ✓ Scraping Data
 ✓ Saas based application
 ✓ API Centric
 
-CMS / Ecommerce:
+<h3>CMS / Ecommerce:</h3>
 ✓ Shopify
 ✓ WordPress
 ✓ Spree
 ✓ AvoRed
 ✓ Bagisto
 
-Databases / Search Engines:
-✓ MySQL,
-✓ PostgreSQL,
+<h3>Databases / Search Engines:</h3>
 ✓ DynamoDB,
-✓ MongoDB
 ✓ SphinxSearch
 ✓ Apache Solr
 ✓ ElasticSearch
 
-Servers (Installation & Configuration):
+<h3>Servers (Installation & Configuration):</h3>
 ✓ Nginx
 ✓ Apache
 ✓ Apache Tomcat
 
-DevTools:
+<h3>DevTools:</h3>
 ✓ Git (command line proficient)
 ✓ Maven
 ✓ NPM
 ✓ Yarn
 
-Payment Gateways:
+<h3>Payment Gateways:</h3>
 ✓ Rapyd
 ✓ Stripe
 ✓ PayPal
 
-CI/CD Tools:
+<h3>CI/CD Tools:</h3>
 ✓ Travis
 ✓ GitHub Actions
 ✓ Bitbucket Pipelines
 
-I follow the agile best practices
+<h3>I follow the agile best practices</h3>
 ✓ Daily Standups
 ✓ Backlog grooming meeting
 ✓ Demo Meeting
