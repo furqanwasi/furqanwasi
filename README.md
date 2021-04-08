@@ -69,7 +69,7 @@
    TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
 <h3> Thing I like to do </h3>
-<table>
+<table style='border: none !important'>
 
 <tr>
    <td> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
