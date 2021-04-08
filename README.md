@@ -13,7 +13,9 @@
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-
+<style>
+ table, tr, td {border: none;}
+</style>
 <h3>Languages </h3>
 <p>
 
