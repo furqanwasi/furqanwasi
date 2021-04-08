@@ -14,7 +14,7 @@
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Languages </h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Languages </h3>
 <p>
 
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
@@ -22,12 +22,12 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>cloud Services</h3>
+<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Cloud Services</h3>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Framework </h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Framework </h3>
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
@@ -35,7 +35,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Project Models</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Project Models</h3>
  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> Saas based application | Scraping Data | API Centric
 
 <h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Front end Technologies </h3>
