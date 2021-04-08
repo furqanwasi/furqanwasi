@@ -66,4 +66,4 @@
    TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
 <h3> Thing I like to do </h3>
-<img src='https://previews.dropbox.com/p/thumb/ABIotOfV49LBe4-Ma7LNM60N74Ts_BFqgDBZkbv9BR9roD1hKVTorxRMQ1hN5rSiMsCDwWF8Ajsj1KLw7TVAEP7PnhHtBND2vyGTKoVeWw-X1RkPimtKQUrbBPgNaSi1fOB05i47p9-EbOZrfA7mBNzOPJOU0QjMsnz0HJsFk3qLLf5Qdm_NGaCuGMPgzAA0cDABK37SD6QkMJmKdgKyxEvaF0k1mcjRQDjlB40E-YtQGrCFeY856icOSkj-u3SfYM6PRrWXiIQdnbJDSd7j2umQLcnDAIY83AiCniP-yeHG5BlUIJtciwKPgd9UdcBS8p1Fhnl6oina5FDZb4Odlcx1OVYd0KUclIz_W5J7UfjdcA/p.jpeg?fv_content=true&size_mode=5'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/4PjV3AnA.jpeg'/>
