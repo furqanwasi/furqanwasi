@@ -69,8 +69,8 @@
 </p>
 
 
-<h3>Frameworks / Technologies:</h3>
-<img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Serverless Apps and Microservices
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Frameworks / Technologies:</h3>
+ Serverless Apps and Microservices
 ✓ ReactJS
 ✓ Amazon Web Services
 ✓ Symfony
