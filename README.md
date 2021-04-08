@@ -14,7 +14,7 @@
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<h3>Languages </h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Languages </h3>
 <p>
 
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
@@ -22,12 +22,12 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-<h3> cloud Services</h3>
+<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>cloud Services</h3>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-<h3>Framework </h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Framework </h3>
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
@@ -35,10 +35,10 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3>Project Models</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>Project Models</h3>
  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> Saas based application | Scraping Data | API Centric
 
-<h3> Front end Technologies </h3>
+<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Front end Technologies </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -52,7 +52,7 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h3> DataBase</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> DataBase</h3>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -61,7 +61,7 @@
 
 </p>
 
-<h3> CI/CD </h3>
+<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CI/CD </h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -86,41 +86,41 @@
 ✓ Saas based application
 ✓ API Centric
 
-<h3>CMS / Ecommerce:</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CMS / Ecommerce:</h3>
 ✓ Shopify
 ✓ WordPress
 ✓ Spree
 ✓ AvoRed
 ✓ Bagisto
 
-<h3>Databases / Search Engines:</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Databases / Search Engines:</h3>
 ✓ DynamoDB,
 ✓ SphinxSearch
 ✓ Apache Solr
 ✓ ElasticSearch
 
-<h3>Servers (Installation & Configuration):</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
 ✓ Nginx
 ✓ Apache
 ✓ Apache Tomcat
 
-<h3>DevTools:</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> DevTools:</h3>
 ✓ Git (command line proficient)
 ✓ Maven
 ✓ NPM
 ✓ Yarn
 
-<h3>Payment Gateways:</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Payment Gateways:</h3>
 ✓ Rapyd
 ✓ Stripe
 ✓ PayPal
 
-<h3>CI/CD Tools:</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CI/CD Tools:</h3>
 ✓ Travis
 ✓ GitHub Actions
 ✓ Bitbucket Pipelines
 
-<h3>I follow the agile best practices</h3>
+<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>  I follow the agile best practices</h3>
 ✓ Daily Standups
 ✓ Backlog grooming meeting
 ✓ Demo Meeting
