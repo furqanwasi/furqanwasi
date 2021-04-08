@@ -66,4 +66,13 @@
    TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
 <h3> Thing I like to do </h3>
-<img src='https://github.com/furqanwasi/furqanwasi/raw/main/4PjV3AnA.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/6.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/>
+<img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/>
