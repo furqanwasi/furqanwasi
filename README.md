@@ -68,6 +68,76 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
 </p>
+
+Languages:
+✓ Ruby
+✓ PHP
+✓ JavaScript
+✓ Java
+
+Frameworks / Technologies:
+✓ Serverless Apps and Microservices
+✓ Ruby on Rails
+✓ ReactJS
+✓ Amazon Web Services
+✓ Laravel
+✓ Symfony
+✓ Codeignitor
+✓ Spring MVC
+✓ Spring Boot
+✓ Kubernetes
+✓ Bash scripting
+✓ NodeJs
+
+Project Models
+✓ Scraping Data
+✓ Saas based application
+✓ API Centric
+
+CMS / Ecommerce:
+✓ Shopify
+✓ WordPress
+✓ Spree
+✓ AvoRed
+✓ Bagisto
+
+Databases / Search Engines:
+✓ MySQL,
+✓ PostgreSQL,
+✓ DynamoDB,
+✓ MongoDB
+✓ SphinxSearch
+✓ Apache Solr
+✓ ElasticSearch
+
+Servers (Installation & Configuration):
+✓ Nginx
+✓ Apache
+✓ Apache Tomcat
+
+DevTools:
+✓ Git (command line proficient)
+✓ Maven
+✓ NPM
+✓ Yarn
+
+Payment Gateways:
+✓ Rapyd
+✓ Stripe
+✓ PayPal
+
+CI/CD Tools:
+✓ Travis
+✓ GitHub Actions
+✓ Bitbucket Pipelines
+
+I follow the agile best practices
+✓ Daily Standups
+✓ Backlog grooming meeting
+✓ Demo Meeting
+✓ Retrospective Meeting
+✓ Sprint Meeting
+
 <h3> Thing I like to do </h3>
 <table style='border: none !important'>
 
