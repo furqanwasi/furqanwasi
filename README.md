@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="30"/> Hey! I am Furqan.</h1>
 
-<p><b>Welcome to my page! </br> I'm Furqan, Fullstack Developer</b> </b></p>
+<p><b>Welcome to my page! </br> I'm Furqan, Fullstack Ruby on Rails , PHP Lavavel Expert</b> </b></p>
 
 <a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
