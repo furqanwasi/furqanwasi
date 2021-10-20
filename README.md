@@ -91,8 +91,8 @@
 <h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CMS / Ecommerce:</h3>
 ✓ Shopify
 ✓ WordPress
+✓ OpenCart
 ✓ Spree
-✓ AvoRed
 ✓ Bagisto
 
 <h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Databases / Search Engines:</h3>
@@ -103,6 +103,7 @@
 
 <h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
 ✓ Nginx
+✓ Passenger
 ✓ Apache
 ✓ Apache Tomcat
 
