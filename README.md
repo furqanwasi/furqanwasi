@@ -90,7 +90,7 @@ Over the past 16+ years, I've architected, scaled, and rescued mission-critical 
 If your platform is under immense pressure—whether from scale, complexity, or structural technical debt—I bring the tactical leadership necessary to stabilize your system and execute with precision.
 
 * **GitHub:** [@furqanwasi](https://github.com/furqanwasi)
-* **LinkedIn:** [linkedin.com/in/furqan-wasi](https://linkedin.com/in/furqan-wasi)]
+* **LinkedIn:** [linkedin.com/in/furqan-wasi](https://linkedin.com/in/furqan-wasi)
 * **Upwork:** [View Upwork Profile](https://www.upwork.com/freelancers/~01b4e9220dfbaeec2f?viewMode=1)
 * **Email:** furqan@cybernest.com
 
