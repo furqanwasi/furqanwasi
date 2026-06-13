@@ -1,4 +1,4 @@
-html_content = """<!DOCTYPE html>
+<html_content = """<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -252,7 +252,6 @@ html_content = """<!DOCTYPE html>
 
 </body>
 </html>
-"""
 
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
