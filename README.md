@@ -1,156 +1,259 @@
+html_content = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senior Full-Stack Architect | Portfolio</title>
+    <style>
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --accent: #2563eb;
+            --border: #e2e8f0;
+        }
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="30"/> Hey! I am Furqan.</h1>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-primary: #0f172a;
+                --bg-secondary: #1e293b;
+                --text-primary: #f8fafc;
+                --text-secondary: #94a3b8;
+                --accent: #3b82f6;
+                --border: #334155;
+            }
+        }
 
-<p><b>Welcome to my page! </br> I'm Furqan, Fullstack Ruby on Rails , PHP Lavavel Expert</b> </b></p>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--bg-primary);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1.25rem;
+        }
 
-<a href='https://www.linkedin.com/in/furqan-wasi-72324940/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href='https://www.facebook.com/furqan.wasi1/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href='https://www.instagram.com/furqan.wasi/' ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        h1, h2, h3, h4 {
+            color: var(--text-primary);
+            font-weight: 700;
+            margin-top: 2rem;
+            margin-bottom: 0.75rem;
+        }
 
-<p>
- With over 11 years of experience in the digital industry and have worked in a wide range of applications & technologies.
+        h1 { font-size: 2.25rem; margin-top: 0; line-height: 1.2; }
+        h2 { font-size: 1.5rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        h3 { font-size: 1.25rem; }
+        h4 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--accent); }
 
- I took part in projects of different sizes and types from large Enterprise-grade applications for US government to small business processes automation tools for StartUps.
+        p, ul {
+            color: var(--text-secondary);
+            margin-bottom: 1.25rem;
+        }
 
- My main responsibilities were direct software development, including software architecture, and my team's code quality control. In addition, I was engaged in the planning and organization of the development process. I'm an expert in OOP and design patterns.
-</p>
+        ul {
+            padding-left: 1.5rem;
+        }
 
+        li {
+            margin-bottom: 0.5rem;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Languages </h3>
-<p>
+        strong {
+            color: var(--text-primary);
+        }
 
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Cloud Services</h3>
-<p>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Framework </h3>
-<p>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+        hr {
+            border: 0;
+            height: 1px;
+            background: var(--border);
+            margin: 2.5rem 0;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Project Models</h3>
- <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> Saas based application | Scraping Data | API Centric
+        .subtitle {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            margin-top: -0.5rem;
+            margin-bottom: 2rem;
+        }
 
-<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Front end Technologies </h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+        .grid {
+            display: block;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> DataBase</h3>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SqlLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+        .card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 0.5rem;
+            padding: 1.25rem;
+            margin-bottom: 1.25rem;
+        }
 
-</p>
+        .card ul {
+            margin-bottom: 0;
+        }
 
-<h3> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CI/CD </h3>
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-   TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
-</p>
+        .tech-stack-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
 
+        .tech-stack-list li {
+            margin-bottom: 0.75rem;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Frameworks / Technologies:</h3>
- Serverless Apps and Microservices
-✓ ReactJS
-✓ Amazon Web Services
-✓ Symfony
-✓ Codeignitor
-✓ Spring MVC
-✓ Spring Boot
-✓ Kubernetes
-✓ Bash scripting
-✓ NodeJs
+        .links-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
 
-<h3>Project Models<h/3>
-✓ Scraping Data
-✓ Saas based application
-✓ API Centric
+        .links-list li {
+            margin-bottom: 0.75rem;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CMS / Ecommerce:</h3>
-✓ Shopify
-✓ WordPress
-✓ OpenCart
-✓ Spree
-✓ Bagisto
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Databases / Search Engines:</h3>
-✓ DynamoDB,
-✓ SphinxSearch
-✓ Apache Solr
-✓ ElasticSearch
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
-✓ Nginx
-✓ Passenger
-✓ Apache
-✓ Apache Tomcat
+    <header>
+        <h1>Senior Full-Stack Architect | AI & SaaS Expert</h1>
+        <div class="subtitle">Rails • Node.js • Python • Cloud</div>
+    </header>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> DevTools:</h3>
-✓ Git (command line proficient)
-✓ Maven
-✓ NPM
-✓ Yarn
+    <main>
+        <p>I help startups, SaaS companies, and enterprise teams build scalable, high-performance software, AI-powered products, and cloud infrastructure designed for high-availability production environments.</p>
+        
+        <p>If you're launching a SaaS product, scaling under heavy traffic, modernizing a legacy system, or struggling to move an AI initiative beyond the prototype stage, I provide the technical leadership to stabilize, architect, and scale your platform with confidence.</p>
+        
+        <p>Over the past 16+ years, I've architected, scaled, and rescued mission-critical applications across Ruby on Rails, Node.js, Python, Laravel, and cloud-native environments—helping engineering teams reduce operational risk, improve system reliability, and accelerate feature velocity.</p>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> Payment Gateways:</h3>
-✓ Rapyd
-✓ Stripe
-✓ PayPal
+        <hr>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/> CI/CD Tools:</h3>
-✓ Travis
-✓ GitHub Actions
-✓ Bitbucket Pipelines
+        <h2>🏆 Selected Experience</h2>
+        <ul>
+            <li><strong>SaaS Scale:</strong> Built and scaled enterprise SaaS platforms from MVP to millions of concurrent requests.</li>
+            <li><strong>Distributed Systems:</strong> Designed high-throughput APIs and distributed architectures under heavy concurrent loads.</li>
+            <li><strong>AI in Production:</strong> Delivered production AI automation, robust RAG systems, and intelligent workflows.</li>
+            <li><strong>Legacy Modernization:</strong> Modernized brittle codebases and systematically eliminated crippling technical debt.</li>
+            <li><strong>Cloud & DevOps:</strong> Led multi-cloud migrations, DevOps automation, and infrastructure cost optimization.</li>
+        </ul>
 
-<h3><img src='https://github.com/furqanwasi/furqanwasi/raw/main/checked-mark.png'/>  I follow the agile best practices</h3>
-✓ Daily Standups
-✓ Backlog grooming meeting
-✓ Demo Meeting
-✓ Retrospective Meeting
-✓ Sprint Meeting
+        <hr>
 
-<h3> Thing I like to do </h3>
-<table style='border: none !important'>
+        <h2>⚡ Core Expertise</h2>
 
-<tr style='border: none;'>
-   <td style='border: none;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/9.jpeg'/></td>
-    <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/7.jpeg'/></td>
-  <td style='border: none;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/2.jpeg'/></td>
-<tr/>
+        <div class="card">
+            <h4>🔹 SaaS Platforms & Enterprise Applications</h4>
+            <ul>
+                <li>Multi-tenant architecture, RBAC, SSO, and compliance audit systems</li>
+                <li>Subscription billing, real-time analytics, and workflow automation platforms</li>
+                <li>API-first design, microservices, and decoupled, event-driven architectures</li>
+                <li>Highly secure, maintainable systems engineered for predictable long-term growth</li>
+            </ul>
+        </div>
 
-<tr style='border: none;'>
- <td style='border: none !important'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/1.jpeg'/></td>
-  <td style='border: none  !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/4.jpeg'/></td>
-  <td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/5.jpeg'/></td>
-<tr/>
+        <div class="card">
+            <h4>🔹 AI Agents & LLM Applications</h4>
+            <ul>
+                <li>AI Agents, agentic workflows, and automated business decision engines</li>
+                <li>Production-grade RAG pipelines, semantic search engines, and vector indexing</li>
+                <li>Multi-modal execution utilizing OpenAI API, Claude, LangChain, LangGraph, CrewAI, and MCP</li>
+                <li>Vector database optimization, evaluation frameworks, observability, and cost-tracking</li>
+                <li>Custom AI copilots and intelligent enterprise knowledge systems</li>
+            </ul>
+        </div>
 
-<tr style='border: none;'>
+        <div class="card">
+            <h4>🔹 API Development & Integrations</h4>
+            <ul>
+                <li>High-performance REST APIs, GraphQL endpoints, WebSockets, and webhook systems</li>
+                <li>Enterprise integrations: Stripe, PayPal, HubSpot, Twilio, and ERP ecosystems</li>
+                <li>OAuth2, OIDC, SAML identity management, and secure authorization systems</li>
+                <li>Enterprise ETL pipelines, real-time data sync, and automated caching layers</li>
+            </ul>
+        </div>
 
- <td style='border: none !important;'> <img src='https://github.com/furqanwasi/furqanwasi/raw/main/10.jpeg'/></td>
- <td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/3.jpeg'/></td>
-<td style='border: none !important;'><img src='https://github.com/furqanwasi/furqanwasi/raw/main/8.jpeg'/></td>
+        <div class="card">
+            <h4>🔹 System Rescue & Performance Optimization</h4>
+            <ul>
+                <li>Legacy application modernization, monolithic decoupling, and architecture refactoring</li>
+                <li>Deep database query optimization, indexing, and schema tuning (PostgreSQL, MySQL)</li>
+                <li>System bottleneck identification, resource utilization management, and platform stabilization</li>
+                <li>Rapid technical debt reduction and codebase recovery for inherited systems</li>
+            </ul>
+        </div>
 
-<tr/>
+        <div class="card">
+            <h4>🔹 Cloud & DevOps Engineering</h4>
+            <ul>
+                <li>High-availability infrastructure deployment across AWS, Azure, and GCP</li>
+                <li>Infrastructure as Code (IaC) utilizing Terraform, Docker, and Kubernetes clusters</li>
+                <li>Continuous Integration/Continuous Deployment (CI/CD) with zero-downtime release strategies</li>
+                <li>Production telemetry setup: logging, distributed tracing, alerting, and cost optimization</li>
+            </ul>
+        </div>
 
-</table>
+        <hr>
+
+        <h2>🎯 Common Problems I Solve</h2>
+        <ul>
+            <li><strong>Stalled Velocity:</strong> Product roadmaps stalled due to brittle, unmanageable legacy architectures.</li>
+            <li><strong>Scale Failures:</strong> Production databases or APIs failing under sudden traffic spikes or application scaling.</li>
+            <li><strong>Unstable AI:</strong> Generative AI concepts that fail to perform accurately or cost-effectively in production.</li>
+            <li><strong>Runaway Cloud Costs:</strong> Cloud infrastructure costs scaling aggressively without clear business utility or ROI.</li>
+            <li><strong>Integration Silos:</strong> Complex third-party APIs creating data silos and operational bottlenecks.</li>
+            <li><strong>Inherited Codebases:</strong> Fragile, undocumented codebases inherited from departed development teams.</li>
+        </ul>
+
+        <hr>
+
+        <h2>🛠 Tech Stack</h2>
+        <ul class="tech-stack-list">
+            <li><strong>Backend:</strong> Ruby on Rails, Node.js (NestJS/Express), Python (FastAPI/Django), Laravel</li>
+            <li><strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS</li>
+            <li><strong>Databases:</strong> PostgreSQL, MySQL, Redis, MongoDB, DynamoDB, Elasticsearch, OpenSearch, Vector DBs</li>
+            <li><strong>Cloud & DevOps:</strong> AWS, Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins</li>
+            <li><strong>AI / ML:</strong> OpenAI API, Claude, LangChain, LangGraph, CrewAI, MCP, RAG, Semantic Search, NLP</li>
+        </ul>
+
+        <hr>
+
+        <h2>🏆 Why Partner With Me?</h2>
+        <ol>
+            <li><strong>16+ Years of Verified Experience:</strong> A proven track record of delivering enterprise-grade software systems.</li>
+            <li><strong>Architecture-First Methodology:</strong> Focused strictly on long-term system maintainability and predictable scaling.</li>
+            <li><strong>Transparent Communication:</strong> Business-aligned technical communication and highly predictable delivery schedules.</li>
+            <li><strong>Flexible Leadership:</strong> Elite capability to lead complex projects, upskill internal teams, or operate as an autonomous lead.</li>
+            <li><strong>Commercial Focus:</strong> A business-first mindset that prioritizes operational reliability, strict ROI, and commercial success.</li>
+        </ol>
+
+        <hr>
+
+        <h2>📩 Contact & Engagement</h2>
+        <p>If your platform is under immense pressure—whether from scale, complexity, or structural technical debt—I bring the tactical leadership necessary to stabilize your system and execute with precision.</p>
+        
+        <ul class="links-list">
+            <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">@yourusername</a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
+            <li><strong>Upwork:</strong> <a href="https://www.upwork.com/freelancers/~yourprofileid" target="_blank">View Upwork Profile</a></li>
+            <li><strong>Email:</strong> <a href="mailto:your.email@domain.com">your.email@domain.com</a></li>
+        </ul>
+    </main>
+
+</body>
+</html>
+"""
+
+with open("index.html", "w", encoding="utf-8") as f:
+    f.write(html_content)
+print("HTML generated successfully")
